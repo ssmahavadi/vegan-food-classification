@@ -1,0 +1,32 @@
+VeganFood,BrownGreen,Breakfast,Taste,Spherelike,TreePlant,Classification
+Apple,neither,yes,sweet,yes,tree,Fruit
+Banana,neither,yes,sweet,no,tree,Fruit
+Orange,neither,yes,sweet,yes,tree,Fruit
+Pomegranate,neither,yes,sweet,yes,tree,Fruit
+Tomato,neither,no,sweet,yes,plant,Fruit
+Grape,neither,yes,sweet,yes,plant,Fruit
+Avocado,green,yes,sweet,yes,tree,Fruit
+Cucumber,green,no,bitter,no,plant,Fruit
+Mango,neither,yes,sweet,yes,tree,Fruit
+Peach,neither,yes,sweet,yes,tree,Fruit
+Carrot,neither,no,sweet,no,plant,Vegetable
+Lettuce,green,no,bitter,no,plant,Vegetable
+Beet,neither,no,bitter,yes,plant,Vegetable
+Spinach,green,no,bitter,no,plant,Vegetable
+Broccoli,green,no,bitter,no,plant,Vegetable
+Brussel Sprouts,green,no,bitter,yes,plant,Vegetable
+White Onion,neither,no,sweet,yes,plant,Vegetable
+Asparagus,green,no,bitter,no,plant,Vegetable
+Radish,neither,no,bitter,yes,plant,Vegetable
+Kale,green,no,bitter,no,plant,Vegetable
+Almonds,brown,yes,sweet,no,tree,Other
+Cashews,brown,yes,sweet,no,tree,Other
+Walnuts,brown,yes,bitter,no,tree,Other
+Brown Rice,brown,no,sweet,no,plant,Other
+Whole Weat Bread,brown,yes,bitter,no,plant,Other
+Soy Milk,neither,yes,bitter,no,plant,Other
+Chia Seed,neither,yes,sweet,yes,plant,Other
+Tofu,neither,no,sweet,no,plant,Other
+Rhubarb,neither,no,bitter,no,plant,Other
+Spelt,brown,yes,sweet,no,plant,Vegetable
+Olives,neither,no,sweet,yes,tree,Fruit
