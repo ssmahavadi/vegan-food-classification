@@ -1,1 +1,2 @@
-# veganfoodclassification
+# Vegan Food Classification
+
